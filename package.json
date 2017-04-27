@@ -1,0 +1,18 @@
+{
+  "name": "socket_chatbot",
+  "version": "0.0.1",
+  "description": "socket.io app with chat functionality",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "^4.15.2",
+    "mongoose": "latest",
+    "socket.io": "^1.7.3"
+  }
+}
